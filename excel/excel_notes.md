@@ -1,6 +1,6 @@
 ## Техническое задание на должность стажёра-аналитика
 
-Файл [intern_analyst_tt](https://github.com/lprosh/junior-analyst-portfolio/blob/main/excel/intern_analyst_tt.xlsx) —
+Файл [intern_analyst_tt](https://github.com/totydie/junior-analyst-portfolio/blob/main/excel/intern_analyst_tt.xlsx) —
 результат работы по следующим заданиям:
 - На сколько процентов увеличится годовая сумма окладов за 2022 год относительно 
 годовой суммы окладов за 2019 год?
@@ -45,7 +45,7 @@
 
 ## Тестовое задание на должность аналитика
 
-Файл [test_excel](https://github.com/lprosh/junior-analyst-portfolio/blob/main/excel/test_excel.xlsx) —
+Файл [test_excel](https://github.com/totydie/junior-analyst-portfolio/blob/main/excel/test_excel.xlsx) —
 результат работы по следующим заданиям:
 - Сколько уникальных торговых ТТ в массиве на листе export?
 - Заполнить таблицу ниже. Вывести в таблицу количество 
@@ -64,7 +64,7 @@
 
 ## Сравнение данных из двух таблиц
 
-Файл [compare_tables](https://github.com/lprosh/junior-analyst-portfolio/blob/main/excel/compare_tables.xlsx) —
+Файл [compare_tables](https://github.com/totydie/junior-analyst-portfolio/blob/main/excel/compare_tables.xlsx) —
 результат работы по следующему заданию:
 - Каким образом в Excel можно сопоставить данные двух таблиц. Напишите примеры формул.
 
@@ -84,7 +84,7 @@
 
 ## Тестирование на должность стажёра
 
-Файл [testing](https://github.com/lprosh/junior-analyst-portfolio/blob/main/excel/testing.xls) —
+Файл [testing](https://github.com/totydie/junior-analyst-portfolio/blob/main/excel/testing.xls) —
 результат работы по следующим проблемам:
 - Работа с форматированием;
 - Работа с формулами "вытаскивания" значений;

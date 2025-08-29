@@ -115,7 +115,7 @@ WHERE mark = 5
 GROUP BY name;
 ```
 
-### 3. Создать простую базу данных аптеки (см. [medicines_erd](https://github.com/lprosh/junior-analyst-portfolio/blob/main/sql/glowbyte/medicines_erd.png)).
+### 3. Создать простую базу данных аптеки (см. [medicines_erd](https://github.com/totydie/junior-analyst-portfolio/blob/main/sql/glowbyte/medicines_erd.png)).
 
 
 - **drugs** 
@@ -171,4 +171,4 @@ WHERE (availability.amount > 1
             AND strftime('%Y', availability.eff_date_to) = '2020'));
 ```
 
-Все запросы можно найти в файле [queries](https://github.com/lprosh/junior-analyst-portfolio/blob/main/sql/glowbyte/queries.sql).
+Все запросы можно найти в файле [queries](https://github.com/totydie/junior-analyst-portfolio/blob/main/sql/glowbyte/queries.sql).

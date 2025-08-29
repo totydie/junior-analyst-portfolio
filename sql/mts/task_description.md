@@ -1,7 +1,7 @@
 ### Задание
 
 В области "Решение" ниже напишите следующие запросы к базе 
-данных [prd_sbx_general](https://github.com/lprosh/junior-analyst-portfolio/blob/main/sql/mts/description_db.md):
+данных [prd_sbx_general](https://github.com/totydie/junior-analyst-portfolio/blob/main/sql/mts/description_db.md):
 
 1. Количество абонентов в разрезе месяцев, регионов и тарифных групп.
 2. Доля абонентов без начислений в разрезе месяцев, групп, регионов.
@@ -111,4 +111,4 @@ WHERE strftime('%m', pta.tbm) = strftime('%m', pta.act_day)
 GROUP BY Regions;
 ```
 
-Все запросы можно найти в файле [queries](https://github.com/lprosh/junior-analyst-portfolio/blob/main/sql/mts/queries.sql).
+Все запросы можно найти в файле [queries](https://github.com/totydie/junior-analyst-portfolio/blob/main/sql/mts/queries.sql).
