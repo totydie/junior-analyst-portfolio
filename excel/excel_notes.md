@@ -16,7 +16,7 @@
 
 ## Техническое задание на должность аналитика данных
 
-Файл [da_analyst_tt]() —
+Файл [da_analyst_tt](https://github.com/totydie/junior-analyst-portfolio/blob/main/excel/da_analyst_tt.xlsm) —
 результат работы по следующим заданиям:
 - Создать сводную таблицу на основе данных с листа IR, 
 содержащую суммарную информацию по количеству
